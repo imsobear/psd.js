@@ -1,7 +1,7 @@
 {
-  "name": "psd",
+  "name": "psd-fork",
   "description": "A general purpose Photoshop file parser.",
-  "version": "3.1.0",
+  "version": "0.2.0",
   "main": "./index.js",
   "keywords": [
     "psd",
@@ -9,6 +9,10 @@
     "photoshop",
     "adobe",
     "reader"
+  ],
+  "files": [
+    "lib/",
+    "dist/"
   ],
   "repository": {
     "type": "git",
